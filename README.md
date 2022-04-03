@@ -2,9 +2,9 @@
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-### I make a lot of effort to become a computer engineer. Sometimes I have difficulties and sometimes I have fun. I am trying to improve myself in artificial intelligence, image processing, machine learning and data science. I believe that I have the ability to develop better works and it would be my pleasure to give hand to those who are interested in these areas. I am one of those who believe that knowledge is meaningful when shared and helped.
 
-## I'm a Student, Python Developer and Data Scientist !! 
+
+## I'm a Student, Python Developer and Data Scientist 
 - 📚 I'm a 4th year student at Izzet Baysal University.
 - 🔭 I’m currently working on my graduation project.
 - 🌱 I’m currently learning Image processing and Machine Learning and Python
@@ -50,8 +50,7 @@
   <br/>
   <a href="https://github.com/mirayeker/github-readme-stats"><img alt="Miray Eker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mirayeker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mirayeker/github-readme-stats"><img alt="Miray Eker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirayeker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <br/>
+  
 ## ❤ Views and Followers
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=mirayeker">
