@@ -1,13 +1,15 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Miray</h1>
-
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
+<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Miray</h1>
 
-## I'm a Student, Python Developer and Data Scientist 
-- 📚 I'm a 4th year student at Izzet Baysal University.
-- 🔭 I’m currently working on my graduation project.
-- 🌱 I’m currently learning Image processing and Machine Learning and Python
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="220" />
+
+
+
+## I'm a Software Developer with a passion for AI 
+- 📚 Passionate about Data Science, Deep Learning, and Machine Learning.
+- 🔭 Currently working on personal projects to enhance my skills in AI and explore its practical applications.
+- 🌱 Continuously learning and expanding my knowledge in the field of Artificial Intelligence.
 - 💬 Ask me about anything from mirayekerr@gmail.com
   
 
